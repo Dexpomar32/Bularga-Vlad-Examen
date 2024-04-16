@@ -1,0 +1,1 @@
+Sunteți managerul unui proiect software care are ca scop elaborarea unei aplicații de monitorizare a numărului de adresări false la 112. În baza proiectului, realizați următoarele sarcini
